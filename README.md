@@ -1,4 +1,4 @@
-vscode 常用插件安装
+<h1>vscode 常用插件安装</h1>
 
 Vetur —— 语法高亮、智能感知、Emmet等 
 包含格式化功能， Alt+Shift+F （格式化全文），Ctrl+K Ctrl+F（格式化选中代码，两个Ctrl需要同时按着）
@@ -7,7 +7,7 @@ VueHelper —— snippet代码片段
 
 EsLint —— 语法纠错
 
-Debugger for Chrome —— 映射vscode上的断点到chrome上，方便调试（配置有点麻烦，其实我没用这个）
+Debugger for Chrome —— 映射vscode上的断点到chrome上，方便调试
 
 Auto Close Tag —— 自动闭合HTML/XML标签
 
