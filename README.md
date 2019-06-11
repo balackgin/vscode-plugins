@@ -38,3 +38,6 @@ Live Server —— 本地服务器架设
 open in browser —— 从默认浏览器打开文件
 
 Dracula —— 代码主题风格
+
+
+pwd of bwg: n91ldkXezR75
